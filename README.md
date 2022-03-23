@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning canvas & AR\VR.
 - 👋 I want to cooperate  to do better.
 - 👯 I’m looking to collaborate on good company.
-- 🤔 I’m looking for help with  find work.
+- 🤔 I’m looking for help with  find good job.
 - 💬 Ask me about JavaScript )
 - 📫 How to reach me: https://t.me/gulyasmir
 - ⚡ Fun fact: 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=directory-backendApi)](https://github.com/gulyasmir/directory-backendApi)
- 
- 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=directory-frontend )](https://github.com/gulyasmir/directory-frontend )
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=for-anastasia)](https://github.com/gulyasmir/for-anastasia)
 
