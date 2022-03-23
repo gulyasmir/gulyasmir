@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=septy-test-api)](https://github.com/gulyasmir/septy-test)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=septy-test-api)](https://github.com/gulyasmir/septy-test-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=septy-test )](https://github.com/gulyasmir/septy-test)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=directory-backendApi)](https://github.com/gulyasmir/directory-backendApi)
