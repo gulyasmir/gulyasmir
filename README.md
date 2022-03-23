@@ -24,5 +24,9 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=directory-backendApi)](https://github.com/gulyasmir/directory-backendApi)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=directory-frontend )](https://github.com/gulyasmir/directory-frontend )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=for-anastasia)](https://github.com/gulyasmir/for-anastasia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&septy-test-api)](https://github.com/gulyasmir/septy-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&septy-test )](https://github.com/gulyasmir/septy-test)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&transport)](https://github.com/gulyasmir/transport)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&parserPDD)](https://github.com/gulyasmir/parserPDD)
 
