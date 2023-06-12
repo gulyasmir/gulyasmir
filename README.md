@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript )
 - 📫 How to reach me: https://t.me/gulyasmir
 - ⚡ Fun fact: 
-
- ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=codewars-kata-solutions )](https://github.com/gulyasmir/codewars-kata-solutions )
@@ -33,3 +31,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=transport)](https://github.com/gulyasmir/transport)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=parserPDD)](https://github.com/gulyasmir/parserPDD)
 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
