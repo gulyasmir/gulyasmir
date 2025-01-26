@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=rag-bot)](https://github.com/gulyasmir/rag-bot)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=architecture-sprint-2)](https://github.com/gulyasmir/architecture-sprint-2)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=grafana)](https://github.com/gulyasmir/grafana )
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=codewars-kata-solutions )](https://github.com/gulyasmir/codewars-kata-solutions )
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=septy-test-api)](https://github.com/gulyasmir/septy-test-api)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=septy-test )](https://github.com/gulyasmir/septy-test)
