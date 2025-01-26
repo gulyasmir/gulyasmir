@@ -15,10 +15,6 @@ My database experience includes PostgreSQL, MongoDB, MySQL, ClickHouse, Redis, M
 For over 3 years, I have been working with Kafka, RabbitMQ, and Mosquitto.
 I have a solid ability to understand and analyze other developers' code and substantial experience conducting code reviews.
 
-My contact
-
-![image](https://github.com/user-attachments/assets/bcbbb2cb-b23f-4802-a2f9-6fba697bf20f)
-
 
 
 **gulyasmir/gulyasmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
