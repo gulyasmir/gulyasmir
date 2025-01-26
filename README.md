@@ -1,9 +1,8 @@
 ### Hello! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulyasmir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My contact
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulyasmir)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github.com/user-attachments/assets/8a92f5d7-9b70-49f3-98b6-d3e59dd7fed6)
 
 
 **gulyasmir/gulyasmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
