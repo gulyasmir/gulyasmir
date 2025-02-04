@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=rag-bot)](https://github.com/gulyasmir/rag-bot)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=architecture-sprint-2)](https://github.com/gulyasmir/architecture-sprint-2)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=photo-project)](https://github.com/gulyasmir/photo-project)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=grafana)](https://github.com/gulyasmir/grafana )
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=photo-project)](https://github.com/gulyasmir/photo-project)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=canvas  )](https://github.com/gulyasmir/canvas )
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=architecture-sprint-2)](https://github.com/gulyasmir/architecture-sprint-2)
 
 
- ![Jokes Card](https://readme-jokes.vercel.app/api)
