@@ -15,18 +15,8 @@ My database experience includes PostgreSQL, MongoDB, MySQL, ClickHouse, Redis, M
 For over 3 years, I have been working with Kafka, RabbitMQ, and Mosquitto.
 I have a solid ability to understand and analyze other developers' code and substantial experience conducting code reviews.
 
+https://t.me/gulyasmir
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  js-project.
-- 🌱 I’m currently learning canvas & AR\VR.
-- 👋 I want to cooperate  to do better.
-- 👯 I’m looking to collaborate on good company.
-- 🤔 I’m looking for help with  find good job.
-- 💬 Ask me about JavaScript )
-- 📫 How to reach me: https://t.me/gulyasmir
-- ⚡ Fun fact: 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=rag-bot)](https://github.com/gulyasmir/rag-bot)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=photo-project)](https://github.com/gulyasmir/photo-project)
