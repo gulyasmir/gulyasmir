@@ -24,7 +24,7 @@ https://t.me/gulyasmir
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=grafana)](https://github.com/gulyasmir/grafana )
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=canvas  )](https://github.com/gulyasmir/canvas )
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=architecture-sprint-2)](https://github.com/gulyasmir/architecture-sprint-2)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=ELK  )](https://github.com/gulyasmir/ELK )
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=Architecture)](https://github.com/gulyasmir/Architecture)
 
 
