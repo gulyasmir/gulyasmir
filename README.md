@@ -17,14 +17,16 @@ I have a solid ability to understand and analyze other developers' code and subs
 
 https://t.me/gulyasmir
 
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=rag-bot)](https://github.com/gulyasmir/rag-bot)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=Architecture)](https://github.com/gulyasmir/Architecture)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=photo-project)](https://github.com/gulyasmir/photo-project)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=grafana)](https://github.com/gulyasmir/grafana )
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
-
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=ELK  )](https://github.com/gulyasmir/ELK )
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=Architecture)](https://github.com/gulyasmir/Architecture)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=nest-and-soap)](https://github.com/gulyasmir/nest-and-soap)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulyasmir&repo=rag-bot)](https://github.com/gulyasmir/rag-bot)
+
+
+
 
 
